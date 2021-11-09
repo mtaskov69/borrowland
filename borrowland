@@ -1,0 +1,12 @@
+public class Item
+    {
+        int Id;
+        string ItemName;
+        string Borrower;
+        string Lender;
+    }
+    public class ExpenseType
+    {
+        int Id;
+        string ExpenseTypeName;
+    }
